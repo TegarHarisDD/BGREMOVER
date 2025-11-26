@@ -1,4 +1,8 @@
-streamlit
-rembg
-Pillow
-numpy
+streamlit==1.28.0
+rembg==2.0.50
+Pillow==10.0.0
+numpy==1.24.3
+opencv-python-headless==4.8.1.78
+scipy==1.11.3
+onnxruntime==1.16.1
+pooch==1.7.0
